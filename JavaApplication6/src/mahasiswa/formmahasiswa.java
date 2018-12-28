@@ -3,13 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package javaapplication6;
+package mahasiswa;
 
 /**
  *
  * @author dslein
  */
-public class JavaApplication6 {
+public class formmahasiswa {
 
     /**
      * @param args the command line arguments
